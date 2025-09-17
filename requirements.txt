@@ -1,0 +1,21 @@
+# Requirements for Speech-to_Speech Translation Project
+
+# Azure Speech SDK for Speech-to-Text
+azure-cognitiveservices-speech
+
+# For loading secrets (keys, region) from .env file
+python-dotenv
+
+# Jupyter Notebooks support
+notebook
+ipykernel
+
+# Data handling & Excel output
+pandas
+openpyxl
+
+# Audio preprocessing (optional but useful)
+pydub
+
+# Visualization (optional, for analysis)
+matplotlib
