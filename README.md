@@ -91,3 +91,8 @@ python src/continuous_recognition.py
 Transcriptions are saved in /results/transcriptions/.
 
 Accuracy reports are saved as /results/accuracy_report.xlsx.
+
+### 6. Milestone Documents
+
+- [Milestone 1 Report](docs/milestone1_report.md)
+- [Setup Instructions](docs/setup_instructions.md)
