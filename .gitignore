@@ -1,0 +1,27 @@
+# Python cache and bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+venv/
+.env/
+.env
+
+# Dotfiles & system
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor folders
+.vscode/
+
+# Logs
+*.log
+
+# Ignore environment files (important: never push secrets)
+.env
+
+# Ignore Microsoft Office temporary files
+~$*
